@@ -1,6 +1,5 @@
-<style media="screen">.maroon {
-    color: #820004;
-}
+<style media="screen">
+.maroon {color: #820004;}
 
 .navy {
     color: #05004c;
@@ -18,12 +17,12 @@
 
 .uppercase {
     text-transform: uppercase;
-
-    .lowercase {
+}
+.lowercase {
         text-transform: lowercase;
     }
 
-    .capitalize {
+    .capitalized {
         text-transform: capitalize;
     }
 
