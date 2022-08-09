@@ -35,6 +35,7 @@
         list-style-type: circle;
     }
 
-    li font-family: "Tahoma";
+    li {font-family: "Tahoma";
     font-size: 15px;
+    }
     </style>
